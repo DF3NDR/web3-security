@@ -1,0 +1,15 @@
+# Intro to Web3 Security
+
+As we step into the era of Web3, a new digital realm characterized by decentralization, blockchain technology, and enhanced user control, understanding the intricacies of security becomes paramount. "Intro to Web3 Security" serves as a comprehensive guide on the way to unraveling the complexities of securing decentralized applications, smart contracts, and blockchain networks. It is a resource created for the singular purpose of enlightening anyone seeking to navigate the Web3 world with a robust understanding of its security dynamics.
+
+The process begins by dissecting the [foundational concepts of Web3](1/0-foundation.md), including its decentralized nature, the evolution from Web1 and Web2, and the pivotal role of blockchain and distributed ledger technology. It elaborates on [fundamental terms](2/0-core_concepts_and_terms.md) like blockchain, smart contracts, DApps, DAOs, and NFTs, and provides an in-depth look at Ethereum, other blockchain platforms, and their unique security models.
+
+We continue our exploration by addressing the critical [importance of security in Web3](3/0-importance_of_security.md) with a discussion on the unique challenges posed by decentralized systems, such as smart contract vulnerabilities, the permanence of blockchain transactions, and complexities in governance. Through examination of high-profile security breaches, the book underscores the consequences of inadequate security measures and the need for robust protocols.
+
+"Intro to Web3 Security" goes on to explore the [broader Web3 security landscape](4/0-web3_security_landscape.md), covering common threats, attack vectors, and the distinct security considerations for different Web3 components. It also delves into the complex interplay between anonymity, privacy, and security within Web3, highlighting both the benefits and challenges of these features.
+
+Fundamental [security principles in Web3](5/0-security_principles.md) are reinterpreted to suit its decentralized nature, marking a shift from trust-based systems to verification-based frameworks. The book discusses the dual role of transparency and open-source development in Web3 security, emphasizing how these elements enhance security while presenting unique challenges.
+
+Finally, "Intro to Web3 Security" presents the [challenges and opportunities](6) in navigating the decentralized nature of Web3. It elaborates on how decentralization can potentially lead to enhanced security, the balancing act between innovation and security, and the importance of fostering a security-conscious culture within the Web3 community.
+
+"Intro to Web3 Security" is intended to be an essential guide for developers, enthusiasts, and anyone relatively new to Web3 who wants to establish a solid foundation on which to build. It offers a blend of insights and practical advice, paving the way for a secure and informed journey into the decentralized digital world.
