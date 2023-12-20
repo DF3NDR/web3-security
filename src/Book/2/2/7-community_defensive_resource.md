@@ -1,1 +1,0 @@
-# Community: A Defensive Resource

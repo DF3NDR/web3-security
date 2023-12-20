@@ -22,7 +22,7 @@ Some design patterns are a bit more conceptual. **State Machine Patterns**, for 
 
 There are a large number of patterns and these are covered more in depth in the Smart Contract Security section. The key takeaway is that these patterns should be studied and applied during the design phase of the SDLC.
 
-***
+---
 
 Integrating security in the design phase means that every aspect of the smart contract's architecture is scrutinized for potential vulnerabilities from the beginning. This includes data storage design, choice of blockchain platform, integration with external systems or oracles, and defining how different components of the DApp interact with each other.
 
