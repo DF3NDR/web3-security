@@ -60,15 +60,15 @@
     * [User Authentication & Access Control](Book/2/5-authentication_access_control.md)
         * [Overview](Book/2/5/1-overview.md)
         * [Access Control](Book/2/5/2-access_control.md)
-        * [Key Takeaways](Book/2/5/3-key_takeaways.md) --> -->
+        * [Key Takeaways](Book/2/5/3-key_takeaways.md)
+# Drafts
+* [03-Smart Contract Security](Book/3/SmartContractSecurity.md)
 
-Still in rough draft or outline form:
-
-    * [03-Smart Contract Security](Book/3/SmartContractSecurity.md)
-    * [04-Smart Contract Auditing](Book/4/SmartContractAuditing.md)
-    * [05-Advanced Web3 Security](Book/4/AdvancedWeb3Security.md)
-    * [06-Tools of the Trade](Book/6/ToolsoftheTrade.md)
-    * [07-Incident Forensics](Book/7/IncidentForensics.md)
-    * [08-Past Exploits](Book/8/PastExploits.md)
-    * [09-Cryptographic Security in Web3](Book/9/CryptographicSecurityinWeb3.md)
-    * [10-Regulatory Compliance and Legal Aspects](Book/10/RegulatoryComplianceandLegalAspects.md)
+# Outlines
+* [04-Smart Contract Auditing](Book/4/SmartContractAuditing.md)
+* [05-Advanced Web3 Security](Book/5/AdvancedWeb3Security.md)
+* [06-Tools of the Trade](Book/6/ToolsoftheTrade.md)
+* [07-Incident Forensics](Book/7/IncidentForensics.md)
+* [08-Past Exploits](Book/8/PastExploits.md)
+* [09-Cryptographic Security in Web3](Book/9/CryptographicSecurityinWeb3.md)
+* [10-Regulatory Compliance and Legal Aspects](Book/10/RegulatoryLegal.md)
