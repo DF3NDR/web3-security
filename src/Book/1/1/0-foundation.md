@@ -1,4 +1,4 @@
-# Introduction
+# Establishing a Foundation
 
 > “In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete.”
 ― Buckminster R. Fuller
