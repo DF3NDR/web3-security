@@ -44,7 +44,7 @@
         * [Risk Monitoring](Book/2/2/5-risk_monitoring.md)
         * [Educating & Collaborating](Book/2/2/6-educating_collaborating.md)
         * [Key Takeaways](Book/2/2/7-key_takeaways.md)
-    <!-- * [Audits & Code Review](Book/2/3-audits_review.md)
+    * [Audits & Code Review](Book/2/3-audits_review.md)
         * [Routine Auditing](Book/2/3/1-routine-audits.md)
         * [Types of Audits](Book/2/3/2-types_of_audits.md)
         * [Audit Process](Book/2/3/3-audit_process.md)
@@ -62,12 +62,13 @@
         * [Access Control](Book/2/5/2-access_control.md)
         * [Key Takeaways](Book/2/5/3-key_takeaways.md) --> -->
 
-<!-- * [03-Smart Contract Security](Book/03-SmartContractSecurity.md)
-* [04-Smart Contract Auditing](Book/04-SmartContractAuditing.md)
-* [05-Advanced Web3 Security](Book/05-AdvancedWeb3Security.md)
-* [06-Tools of the Trade](Book/06-ToolsoftheTrade.md)
-* [07-Incident Forensics](Book/07-IncidentForensics.md)
-* [08-Past Exploits](Book/08-PastExploits.md)
-* [09-Cryptographic Security in Web3](Book/09-CryptographicSecurityinWeb3.md)
-* [10-Regulatory Compliance and Legal Aspects](Book/10-RegulatoryComplianceandLegalAspects.md)
-* [11-Emerging Trends and Future Directions](11-emerging-trends-and-future-directions.md) -->
+Still in rough draft or outline form:
+
+    * [03-Smart Contract Security](Book/3/SmartContractSecurity.md)
+    * [04-Smart Contract Auditing](Book/4/SmartContractAuditing.md)
+    * [05-Advanced Web3 Security](Book/4/AdvancedWeb3Security.md)
+    * [06-Tools of the Trade](Book/6/ToolsoftheTrade.md)
+    * [07-Incident Forensics](Book/7/IncidentForensics.md)
+    * [08-Past Exploits](Book/8/PastExploits.md)
+    * [09-Cryptographic Security in Web3](Book/9/CryptographicSecurityinWeb3.md)
+    * [10-Regulatory Compliance and Legal Aspects](Book/10/RegulatoryComplianceandLegalAspects.md)
