@@ -15,7 +15,9 @@ It should go without saying that **Developers programming Smart Contracts** and 
 
 ## Prerequisites
 
-The [first section](Book/01-Intro.md) should be accessible to anyone with IT or technology experience. The **second section** starts to become more technical. The site progressively becomes more narrow in its aim at professionals at various places in their journey with. Section by section the need for more technical experience increases. An effort is made to make this accessible to as wide an audience as possible by providing links and suggestions in areas where more information is required.&#x20;
+The [first section](Book/01-Intro.md) should be accessible to anyone with IT or technology experience. The **second section** starts to become more technical. An effort is made to make all the content accessible to as many people as possible by (eventually) providing links and suggestions in areas where more information is required. 
+
+Nonetheless, it is impossible to avoid the inevitable narrowing of audience focus as things progress. Again, the idea is to provide as much as possible so that section by section there is not too great a requirement for external technical experience. However, the **third section** is a deeper dive into the technical aspects of Smart Contract security, so some knowledge about developing Smart Contracts and Blockchain systems is expected.
 
 ## Layout and Organization
 
@@ -27,4 +29,4 @@ It should go without saying that the focus on Web3 Security means this site favo
 
 ### And thanks for all the fish...
 
-Thanks to all who’ve contributed to this information and .
+Thanks to all who’ve contributed and inspired.
