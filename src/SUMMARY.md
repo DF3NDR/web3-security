@@ -78,7 +78,6 @@
         * [Testing Tools](Book/2/11/2-testing_tools.md)
         * [Unit Testing](Book/2/11/3-unit_testing.md)
         * [Static Analysis](Book/2/11/4-static_analysis.md)
-        * [Dynamic Analysis](Book/2/11/5-dynamic_analysis.md)
         * [Fuzzing](Book/2/11/6-fuzzing.md)
         * [Invariant Analysis](Book/2/11/7-invariant_analysis.md)
         * [Formal Verification](Book/2/11/8-formal_verification.md)
