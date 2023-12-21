@@ -1,4 +1,9 @@
 # Smart Contract Specific Security Measures
 
-The topic of Smart Contract Security is a vast one, and there is an entire section devoted to the subject. This chapter offers a broader coverage of security best practices for smart contract development, handling upgrades in smart contracts, and the use proxy patterns.
+The topic of Smart Contract Security is a vast one, and so we have devoted all of [part 3 of Web3 Security:Smart Contract Security] the subject. This chapter offers a bit of primer with broader coverage of security best practices for smart contract development, handling upgrades in smart contracts, and the use proxy patterns.
 
+The chapter begins with **Best Practices in Ethereum Smart Contract Development**, emphasizing the necessity of understanding Ethereum's unique security challenges. It provides a set of guidelines for secure coding practices, such as using the latest version of Solidity and employing secure design patterns to counter common vulnerabilities like reentrancy attacks. Regularly updating and auditing smart contract dependencies are also underscored for maintaining security integrity.
+
+Shifting focus to **Handling Upgradeability in Smart Contracts**, the chapter discusses the complexities and security implications associated with making smart contracts upgradeable. It outlines best practices, including the use of proxy patterns like OpenZeppelin's Transparent Proxy Pattern, which separates logic and data, ensuring secure upgrade processes and consistent functionality across different contract versions.
+
+In **Proxy Patterns and Their Security Implications**, the chapter dives into various proxy patterns, such as Transparent, UUPS, and Diamond Proxy patterns, exploring their unique security considerations. It highlights the potential vulnerabilities of each pattern and emphasizes the critical role of thorough testing and auditing in their implementation.
