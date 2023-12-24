@@ -101,7 +101,7 @@
         * [New Tools & Practices](Book/2/10/3-new_security_tools.md)
         * [Learning from Audits](Book/2/10/4-learning_from_audits.md)
         * [Engaging with Emerging Standards & Protocols](Book/2/10/5-standards_protocols.md)
-        * [Contributing to Open Source Communties](Book/2/10/6-open_source_communities.md)
+        * [Contributing to Open Source Communities](Book/2/10/6-open_source_communities.md)
         * [Proactive Security Mindset](Book/2/10/7-proactive_security_mindset.md)
 
 # Drafts
