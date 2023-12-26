@@ -1,9 +1,5 @@
 # Introduction
 
-This a living document meant to offer resources for those interested in Web3 Security. We welcome corrections, updates and additions from those who wish to contribute.
-
-## Target Audience
-
 It should go without saying that **Developers programming Smart Contracts** and **Smart Contract Security Auditors** will find the information here valuable but this is meant to be accessible to a wider audience as well, at least in part. Anyone interested in gaining a greater understanding of security as it pertains to **Web3, Blockchain, Smart Contracts and Cryptocurrency** can find value in this guide. That includes:
 
 * **Software Developers**
@@ -15,9 +11,9 @@ It should go without saying that **Developers programming Smart Contracts** and 
 
 ## Prerequisites
 
-The [first section](Book/01-Intro.md) should be accessible to anyone with IT or technology experience. The **second section** starts to become more technical. An effort is made to make all the content accessible to as many people as possible by (eventually) providing links and suggestions in areas where more information is required. 
+The [first section](Book/01-Intro.md) should be accessible to anyone with IT or technology experience. The [second section](Book/0-web3_security_best_practices.md) starts to become more technical. An effort is made to make all the content accessible to as many people as possible by (eventually) providing links and suggestions in areas where more information is required. 
 
-Nonetheless, it is impossible to avoid the inevitable narrowing of audience focus as things progress. Again, the idea is to provide as much as possible so that section by section there is not too great a requirement for external technical experience. However, the **third section** is a deeper dive into the technical aspects of Smart Contract security, so some knowledge about developing Smart Contracts and Blockchain systems is expected.
+Nonetheless, it is impossible to avoid the inevitable narrowing of audience focus as things progress. Again, the idea is to provide as much as possible so that section by section there is not too great a requirement for external technical experience. However, the [third section](Book/3/SmartContractSecurity.md), though still in draft form, is going to be a deeper dive into the technical aspects of Smart Contract security, so some knowledge about developing Smart Contracts and Blockchain systems is expected.
 
 ## Layout and Organization
 
@@ -26,6 +22,10 @@ Each section builds on the previous and it starts by creating a foundation in pa
 Each major section is broken down into multiple subsections that contain multiple parts with covering particular subjects.
 
 It should go without saying that the focus on Web3 Security means this site favors security concerns over other aspect of developing smart contracts or creating projects, subjects that are covered in-depth by many others.
+
+## Process and Publication
+
+This a working draft that is actively being developed. It is meant to offer resources for those interested in Web3 Security. We welcome corrections, updates and additions from those who wish to contribute.
 
 ### And thanks for all the fish...
 
