@@ -342,7 +342,7 @@ Secure design patterns are best practices that help mitigate common vulnerabilit
 * **Check-Effects-Interactions:** This pattern recommends ordering transactions in a way that checks are done first, followed by state changes (effects), and external interactions last. This sequence minimizes the risk of reentrancy and other unexpected behaviors.
 * **ABI Decode With Selector:** This involves techniques for decoding function call data and revert errors effectively, enhancing the contract's ability to interact with and understand external calls and messages.
 * **Advanced Error Handling:** Writing code that can intercept and react appropriately to errors thrown by other contracts is crucial for resilience and security.
-* **Assembly for Optimization:** Using short, useful assembly tricks can help save gas and compensate for Solidity's limitations, optimizing the contract's performance and reducing the risk of some attacks.
+* **Assembly for Optimization:** Using short, useful assembly tricks can help save gas and compensate for Solidity's limitations, optimizing the contract's performance and reducing the risk of some attacks. It can also introduce risks.
 * **Basic Proxies:** Implementing contracts with upgradeable logic using proxy patterns, which allow for updating the contract's functionality without changing the deployed contract.
 * **Bitmap Nonces:** Efficiently tracking the state of frequent, consumable operations identifiable by unique nonces, using bitmap data structures for optimized performance.
 * **Commit + Reveal:** A two-step process that partially obscures on-chain actions, protecting them from front-running or back-running.
