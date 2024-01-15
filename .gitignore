@@ -2,5 +2,5 @@ draft
 
 .local.gitignore
 
-book
+/book
 .vscode
