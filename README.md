@@ -10,3 +10,26 @@ This repository uses the mdbook software which is a standalone Rust program that
 
 You can find installation instructions for mdbook on the [mdbook website](https://rust-lang.github.io/mdBook/) or on [github](https://github.com/rust-lang/mdBook).
 
+## Usage
+
+To build the book, run:
+
+```bash
+mdbook build
+```
+
+To serve the book locally on port 3000, run:
+
+```bash
+mdbook serve
+```
+
+
+To watch the directory for changes and rebuild the book automatically, run:
+
+```bash
+mdbook watch
+```
+
+
+
