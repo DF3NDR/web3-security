@@ -25,8 +25,12 @@ It should go without saying that the focus on Web3 Security means this site favo
 
 ## Process and Publication
 
-This a working draft that is actively being developed. It is meant to offer resources for those interested in Web3 Security. We welcome corrections, updates and additions from those who wish to contribute.
+This a working draft that is actively being developed. It is meant to offer resources for those interested in Web3 Security. We welcome corrections, updates and additions from those who wish to contribute. [Issues and changes can be made in the repository](https://github.com/DF3NDR/web3-security)
 
-### And thanks for all the fish...
+## License
+
+Creative Commons BY-NC-ND 4.0(https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## And thanks for all the fish...
 
 Thanks to all who’ve contributed and inspired.
