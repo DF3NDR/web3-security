@@ -93,7 +93,7 @@
         * [Common Defi Vulnerabilities](Book/2/8/2-common_vulnerabilities.md)
         * [Security Best Practices in DeFi](Book/2/8/3-best_practices.md)
         * [Governance & Administrative Functions](Book/2/8/4-governance_administrative_functions.md)
-        * [Liquidity Poos & Staking](Book/2/8/5-liquidity_pools_staking.md)
+        * [Liquidity Pools & Staking](Book/2/8/5-liquidity_pools_staking.md)
         * [User Education & Transparency](Book/2/8/6-user_education_transparency.md)
     * [Continuous Improvement](Book/2/10/0-continuous_improvement.md)
         * [Staying Updated](Book/2/10/1-staying_updated.md)
@@ -104,14 +104,14 @@
         * [Contributing to Open Source Communities](Book/2/10/6-open_source_communities.md)
         * [Proactive Security Mindset](Book/2/10/7-proactive_security_mindset.md)
 
-# Drafts
-* [03-Smart Contract Security](Book/3/SmartContractSecurity.md)
+# Drafts - available on Github
+* [03-Smart Contract Security]()
 
-# Outlines
-* [04-Smart Contract Auditing](Book/4/SmartContractAuditing.md)
-* [05-Advanced Web3 Security](Book/5/AdvancedWeb3Security.md)
-* [06-Tools of the Trade](Book/6/ToolsoftheTrade.md)
-* [07-Incident Forensics](Book/7/IncidentForensics.md)
-* [08-Past Exploits](Book/8/PastExploits.md)
-* [09-Cryptographic Security in Web3](Book/9/CryptographicSecurityinWeb3.md)
-* [10-Regulatory Compliance and Legal Aspects](Book/10/RegulatoryLegal.md)
+# Outlines - available on Github
+* [04-Smart Contract Auditing]()
+* [05-Advanced Web3 Security]()
+* [06-Tools of the Trade]()
+* [07-Incident Forensics]()
+* [08-Past Exploits]()
+* [09-Cryptographic Security in Web3]()
+* [10-Regulatory Compliance and Legal Aspects]()
