@@ -1,5 +1,7 @@
 # Smart Contract Patterns and Anti-Patterns
 
+> Note: This section is a work in progress and will be expanded in future updates.
+
 In smart contract development, understanding and implementing security patterns is as crucial as recognizing and avoiding anti-patterns. This section dives into some secure design patterns essential for robust smart contract creation and highlights common anti-patterns to steer clear of.
 
 ## Secure Design Patterns
