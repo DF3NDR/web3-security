@@ -1,6 +1,6 @@
 # Advanced Smart Contract Features and Security
 
-***
+> Note: This section is a work in progress and will be expanded in future updates.
 
 Advanced features like upgradeability, proxies, oracles, and cross-contract calls play a pivotal role in enhancing functionality and efficiency. However, these advancements also bring unique security implications that must be carefully managed.
 

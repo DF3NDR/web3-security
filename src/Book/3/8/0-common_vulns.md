@@ -1,4 +1,6 @@
-# 3.8 Common Vulnerabilities in Smart Contracts
+# Common Vulnerabilities in Smart Contracts
+
+> Note: This section is a work in progress and will be expanded in future updates.
 
 Smart contracts, while innovative and powerful, are not immune to vulnerabilities. This section provides an overview of some of the most common vulnerabilities in smart contracts, particularly focusing on reentrancy, integer overflow, and access control issues. Additionally, it includes an analysis of past vulnerabilities and attacks through case studies, offering insights into how these weaknesses were exploited and the lessons learned.
 

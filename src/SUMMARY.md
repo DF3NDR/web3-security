@@ -150,6 +150,6 @@
     * [Smart Contract Patterns and Anti-Patterns](Book/3/7/0-patterns_anti-patterns.md)
     * [Common Vulnerabilities](Book/3/8/0-common_vulns.md)
     * [Audits for Developers](Book/3/9/0-audits_for_developers.md)
-    * [Learning from Past Exploits](Book/3/10/0-learning_from_past_exploits.md)
+    * [Learning from Past Exploits](Book/3/10/0-learning_past_exploits.md)
     * [Advanced Contract Security](Book/3/11/0-adv-contract-security.md)
     * [Emerging Trends](Book/3/12/0-emerging_trends.md)

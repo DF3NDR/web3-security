@@ -1,5 +1,7 @@
 # **Smart Contract Auditing**
 
+> Note: This section is a work in progress and will be expanded in future updates.
+
 ## 4.1 **Introduction to Smart Contract Auditing**
 - The Critical Role of Audits in Smart Contract Security
 - Ethical and Professional Standards in Auditing

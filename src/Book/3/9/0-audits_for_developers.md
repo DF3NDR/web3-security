@@ -1,5 +1,7 @@
 # Participating in Security Audits
 
+> Note: This section is a work in progress and will be expanded in future updates.
+
 Security auditing is a crucial step in the development lifecycle of smart contracts. It involves a thorough examination of the contract's code to identify vulnerabilities and ensure compliance with best practices. This section delves into the processes and techniques used in effective smart contract audits, as well as the tools and best practices that facilitate these audits.
 
 ***
