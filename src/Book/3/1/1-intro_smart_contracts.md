@@ -1,4 +1,4 @@
-# 3.1.1 Introduction to Smart Contracts on Ethereum
+# Introduction to Smart Contracts on Ethereum
 
 Smart contracts are the cornerstone of Ethereum and all programmable blockchain functionality. When launched in 2015 Ethereum introduced a transformative approach to executing and enforcing digital agreements. These self-operating programs are composed of code and conditions, deployed directly onto the Ethereum network. Here, they exist in a decentralized setting, beyond the control or influence of any singular entity.
 

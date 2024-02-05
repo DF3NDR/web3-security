@@ -10,6 +10,4 @@ Security analysis tools play a critical role in identifying vulnerabilities in s
 
 - **Echidna**: A property-based fuzzer for Ethereum smart contracts. It is enables a full featured structure for building a fuzzing harness that can also use properties/invariants.
 
-- **SmartCheck**: It is a security analysis tool for Ethereum smart contracts. It is a static analysis tool that can be used to detect vulnerabilities in smart contracts.
-
 These tools assist developers in preemptively identifying and addressing potential security issues, significantly enhancing the robustness of smart contract development. Regular use of these tools is recommended to maintain the highest security standards.
