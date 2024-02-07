@@ -74,15 +74,17 @@
 - [Timestamp Dependence](11/5-timestamp_dependence.md) : Smart contracts that use the `block.timestamp` variable may have this vulnerability.
 - [Gas Limit and Loops](11/6-gas_related_vulnerabilties.md) : Loops that run for an indeterminate number of iterations can hit the gas limit, causing transactions to fail.
 - [Denial of Service (DOS) Attacks](11/7-dos_attacks.md) : Exploiting design flaws or gas-related vulnerabilities to make contracts unusable.
-- [Re-entrancy Attacks](11/) : This occurs when an external contract hijacks the control flow, and makes recursive calls to the original contract.
-- Delegatecall : `delegatecall` is a low-level function similar to a dynamic library call in other languages. If not used carefully, it can lead to serious vulnerabilities.
-- integer overflow/underflow,
-- Discusses the importance of rounding issues and how they can affect the accuracy and security of smart contracts
+- [Re-entrancy Attacks](11/8-reentrancy_attacks.md) : This occurs when an external contract hijacks the control flow, and makes recursive calls to the original contract.
+- [Delegatecall](11/9-delegatecall.md) : `delegatecall` is a low-level function similar to a dynamic library call in other languages. If not used carefully, it can lead to serious vulnerabilities.
+- [Math-Related Vulnerabilities](11/10-math_related_vulnerabilities.md) : Integer overflow, underflow, and rounding errors are common in smart contracts due to the lack of native floating-point support in Solidity.
+- [Unchecked Return Values](11/11-unchecked_return_values.md) : Failing to check the return values of low-level calls such as `send`, `call`, and `delegatecall` can lead to vulnerabilities where contract execution continues even after a failed external call.
+
+> These section are still in development and will be expanded in the near future.
 
 ##  Upgradeability Patterns and Vulnerabilities 
 - Upgradeability and the security implications for smart contract development, incident response and maintenance
-- [Upgrade Patterns] Compares and contrasts different upgradeability patterns, such as proxy contracts, delegate calls, and eternal storage
-- Reveals some common upgradeability vulnerabilities and how to avoid them, such as storage collisions, function clashes, and malicious upgrades
+- Upgrade Patterns Compares and contrasts different upgradeability patterns, such as proxy contracts, delegate calls, and eternal storage
+- Some common upgradeability vulnerabilities and how to avoid them, such as storage collisions, function clashes, and malicious upgrades
 
 ##  Front-running vectors 
 - Define front-running as the act of exploiting the ordering of transactions in the mempool to gain an unfair advantage

@@ -1,4 +1,4 @@
-[Introduction to Web3 Security](Book/1/1-intro_web3_security.md) | [Web3 Security Best Practices](Book/2/0-web3_security_best_practices.md) | [Smart Contract Security](Book/3/smart_contract_security.md) | [Smart Contract Auditing](Book/4/smart_contract_auditing.md)
+[Introduction](Book/1/1-intro_web3_security.md) | [Best Practices](Book/2/0-web3_security_best_practices.md) | [Development](Book/3/smart_contract_security.md) | [Auditing](Book/4/smart_contract_auditing.md)
 
 # Introduction
 
