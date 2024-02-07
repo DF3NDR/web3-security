@@ -195,6 +195,8 @@
         * [Creating Proofs-of-Concept](Book/4/7/3-creating_pocs.md)
     * [Advanced Verification Methods: Fuzzing](Book/4/8/0-fuzzing.md)
         * [Stateless vs Stateful Fuzzing](Book/4/8/1-stateless_stateful_fuzzing.md)
+        * [Stateless Fuzzing with Foundry](Book/4/8/2-stateless_fuzzing_foundry.md)
+        * [Stateful Fuzzing with Echidna](Book/4/8/3-stateful_fuzzing_echidna.md)
         * [Identifying Invariants in Smart Contracts](Book/4/8/4-identifying_invariants.md)
     * [Advanced Verification Methods: Formal Verification](Book/4/9/0-formal_verification.md)
         * [Benefits and Limitations](Book/4/9/1-benefits_limitations.md)

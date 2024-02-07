@@ -1,3 +1,5 @@
+[Introduction to Web3 Security](Book/1/1-intro_web3_security.md) | [Web3 Security Best Practices](Book/2/0-web3_security_best_practices.md) | [Smart Contract Security](Book/3/smart_contract_security.md) | [Smart Contract Auditing](Book/4/smart_contract_auditing.md)
+
 # Introduction
 
 It should go without saying that **Developers programming Smart Contracts** and **Smart Contract Security Auditors** will find the information here valuable but this is meant to be accessible to a wider audience as well, at least in part. Anyone interested in gaining a greater understanding of security as it pertains to **Web3, Blockchain, Smart Contracts and Cryptocurrency** can find value in this guide. That includes:
