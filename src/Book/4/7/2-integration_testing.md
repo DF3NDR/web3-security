@@ -1,0 +1,3 @@
+# Integration Testing and Smart Contract Audit
+
+An introduction to Integration testing was presented in [Section 3.4.2 Smart Contract Security](/src/Book/3/4/2-integration_testing.md) and so we will not cover that ground again. In the context of auditing, integration tests can be likewise be valuable component and play a role not unlike that of Unit Testing, enabling auditors to evaluate the interactions between different components of a smart contract system and offering a base to build upon. Existing integration tests can greatly assist in understanding the contract's behavior and the business logic, in building POCs and in creating other more robust tests for dynamic analysis tools like fuzzers. 
